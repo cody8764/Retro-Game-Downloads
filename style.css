@@ -1,0 +1,21 @@
+body {
+    color: white;
+}
+
+.links {
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: inline;
+    float:left
+}
+
+.menu {
+    position: fixed;
+    background:whitesmoke ;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
